@@ -1,5 +1,5 @@
+# simpleApp
 from pyspark.sql import SparkSession
-
 
 logFile = "README.md"
 spark = SparkSession.builder.appName("SimpleApp").config('spark.driver.bindAddress', '127.0.0.1').getOrCreate()
