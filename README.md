@@ -2,7 +2,11 @@
 Apache Spark 공식 문서 스터디
 
 ## RDD Programming Guide
-2025.04.15<br>
+2025.04.16  
+실습 진행
+----
+2025.04.15  
+코드 실습은 jupyternotebook 이 편리해보여서 변경  
 ### Spark abstract
 #### Resilient Distributed Dataset(RDD)
 하둡 내에 있는 파일 혹은 디스크에 저장된 Scala collection 으로 시작해서 이를 변환한다.
@@ -15,9 +19,7 @@ function 의 변수를 복사해서 각 노드에 전달
 한 값을 모든 node 의 메모리에 cache  
 - Accumulatiors  
 누적용 변수, sum or count 연산에 쓰임, 각 작업에서 값을 더해 나가면서 그 결과를 드라이버 프로그램에서 수집, += 처럼 누적 가능, 읽는건 드라이버 프로그램에서만 가능
-
-코드 실습은 jupyternotebook 이 편리해보여서 변경
-
+----
 
 
 
@@ -29,7 +31,7 @@ Can't assign requested address: Service 'sparkDriver' failed after 16 retries (o
 에러 발생   
 -> spark session 객체에서 config 설정에 127.0.0.1 추가  
 혹은 load-spark-env.sh 설정에서 주소 설정
-
+----
 
 2025.04.10  
 시작
