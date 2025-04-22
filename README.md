@@ -2,6 +2,10 @@
 Apache Spark 공식 문서 스터디
 
 ## RDD Programming Guide
+2025.04.22  
+복습및 실습 진행  
+Passing Functions to Spark  
+
 2025.04.20  
 복습 및 실습 진행  
 RDD Operation  
