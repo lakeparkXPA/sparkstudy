@@ -5,7 +5,7 @@ Apache Spark 공식 문서 스터디
 2025.04.24  
 복습 및 실습 진행  
 Printing elements of an RDD  
-
+Working with Key-Value Pairs  
 
 2025.04.23  
 복습 및 실습 진행  
