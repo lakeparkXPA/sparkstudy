@@ -4,9 +4,14 @@ Apache Spark 공식 문서 스터디
 ## RDD Programming Guide
 2025.04.24  
 복습 및 실습 진행  
-Understanding closures  
+Printing elements of an RDD  
+
 
 2025.04.23  
+복습 및 실습 진행  
+Understanding closures  
+
+2025.04.22  
 복습 및 실습 진행  
 Passing Functions to Spark  
 
