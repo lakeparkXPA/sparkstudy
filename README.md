@@ -2,6 +2,10 @@
 Apache Spark 공식 문서 스터디
 
 ## RDD Programming Guide
+2024.04.28  
+복습 및 실습 진행
+Transformations  
+
 2025.04.24  
 복습 및 실습 진행  
 Printing elements of an RDD  
@@ -45,7 +49,7 @@ function 의 변수를 복사해서 각 노드에 전달
 ## Quick Start
 2025.04.14  
 윈도우 환경에서 맥 환경으로 변경  
-첫 시작 simpleApp.py 돌리니  
+첫 시작 Overview.py 돌리니  
 Can't assign requested address: Service 'sparkDriver' failed after 16 retries (on a random free port)! Consider explicitly setting the appropriate binding address for the service 'sparkDriver' (for example spark.driver.bindAddress for SparkDriver) to the correct binding address.  
 에러 발생   
 -> spark session 객체에서 config 설정에 127.0.0.1 추가  
