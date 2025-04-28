@@ -43,7 +43,7 @@ spark는 function 서로 다른 nodes 에서 작업 묶음으로 병렬 작동
 function 의 변수를 복사해서 각 노드에 전달  
 - Broadcast variable  
 한 값을 모든 node 의 메모리에 cache  
-- Accumulatiors  
+- Accumulators  
 누적용 변수, sum or count 연산에 쓰임, 각 작업에서 값을 더해 나가면서 그 결과를 드라이버 프로그램에서 수집, += 처럼 누적 가능, 읽는건 드라이버 프로그램에서만 가능
 
 ## Quick Start
