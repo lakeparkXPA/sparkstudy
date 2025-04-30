@@ -2,7 +2,11 @@
 Apache Spark 공식 문서 스터디
 
 ## RDD Programming Guide
-2024.04.28  
+2025.04.30  
+복습 및 실습 진행
+Transformations  
+
+2025.04.28  
 복습 및 실습 진행
 Transformations  
 
