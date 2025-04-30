@@ -1,5 +1,7 @@
 # Spark 3.5.5 tutorial
-Apache Spark 공식 문서 스터디
+Apache Spark 공식 문서 스터디  
+최근 순으로 Readme를 일기장처럼 기록한다  
+아이 신나  
 
 ## RDD Programming Guide
 2025.04.30  
