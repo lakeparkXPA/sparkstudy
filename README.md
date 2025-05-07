@@ -4,6 +4,11 @@ Apache Spark 공식 문서 스터디
 아이 신나  
 
 ## RDD Programming Guide
+2025.05.07  
+휴가는 달았다...  
+복습 및 실습 진행  
+Transformation 오늘 끝내자...  
+
 2025.04.30  
 복습 및 실습 진행
 Transformations  
