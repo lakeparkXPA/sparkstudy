@@ -4,10 +4,13 @@ Apache Spark 공식 문서 스터디
 아이 신나  
 
 ## RDD Programming Guide
+<details>
+  <summary>2025.04.28~05.07 복습 및 실습 진행 Transformation</summary>
 2025.05.07  
 휴가는 달았다...  
 복습 및 실습 진행  
 Transformation 오늘 끝내자...  
+다른거 찾아보느라 못끝냈다...
 
 2025.04.30  
 복습 및 실습 진행
@@ -16,6 +19,7 @@ Transformations
 2025.04.28  
 복습 및 실습 진행
 Transformations  
+</details>  
 
 2025.04.24  
 복습 및 실습 진행  
@@ -45,6 +49,7 @@ RDD Operation
 코드 실습은 jupyternotebook 이 편리해보여서 변경  
 ### Spark abstraction
 Spark 앱은 사용자의 main function을 클러스터에서 병렬처리하는 driver program 으로 구성됨  
+
 #### Resilient Distributed Dataset(RDD)
 하둡 내에 있는 파일 혹은 디스크에 저장된 Scala collection 으로 시작해서 이를 RDD로 변환한다.
 RDD 는 메모리 위에 두어서 병렬처리에서 효율적으로 재사용  
@@ -56,6 +61,7 @@ function 의 변수를 복사해서 각 노드에 전달
 한 값을 모든 node 의 메모리에 cache  
 - Accumulators  
 누적용 변수, sum or count 연산에 쓰임, 각 작업에서 값을 더해 나가면서 그 결과를 드라이버 프로그램에서 수집, += 처럼 누적 가능, 읽는건 드라이버 프로그램에서만 가능
+
 
 ## Quick Start
 2025.04.14  
