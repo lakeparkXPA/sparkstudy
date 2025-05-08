@@ -6,6 +6,10 @@ Apache Spark 공식 문서 스터디
 ## RDD Programming Guide
 <details>
   <summary>2025.04.28~05.07 복습 및 실습 진행 Transformation</summary>
+2025.05.08  
+복습 및 실습 진행  
+오늘은 진짜 Transformation 다 실습하기!  
+
 2025.05.07  
 휴가는 달았다...  
 복습 및 실습 진행  
